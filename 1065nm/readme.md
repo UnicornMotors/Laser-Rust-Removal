@@ -1,0 +1,3 @@
+# Comment:
+https://www.youtube.com/watch?v=FIU3IUbD0dQ&lc=UgxfCTQXq1EV3eLltMd4AaABAg
+>I have a 50W 1064nm fiber laser which is capable to derust and clean metals too. To avoid surface marks, I crank down the output power to 20% up to 40% depending on the material, so 10W to 20W. In my experience, it is better to choose the minimum power which vaporizes the dirt but not the underlying metal surface and go slowly. This way you can pass  even multiple times on the same spot without worries. When all the oxydation is gone, the laser makes no noise at all. If the metal is clean and the laser makes noise, you are engraving into the surface.
